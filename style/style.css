@@ -1,0 +1,36 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav_half a{
+    color: black;
+}
+
+.header_bg{
+    background-color: #FFF9F4;
+}
+
+
+.card_border{
+    border: 2px solid green;
+    background-color: white;
+}
+
+.nav_half{
+    background-color: #FFF9F4;
+}
+
+
+
+.bottom_part{
+    /* border: 2px solid green; */
+    width: 489px;
+    height: 135px;
+}
+
+
+.no_border{
+    border: none;
+}
+
+
